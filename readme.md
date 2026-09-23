@@ -17,7 +17,7 @@ Adapt writing standards; focus on core meaning and flow by default; fix clear ty
 Fix nested code blocks; use 1 more backtick on outer markdown fences than any inner block uses (e.g., ```` around ```).
 End cleanly; answer the core question and stop without pushing unprompted follow-ups, new topics, or artificial conversation starters.
 
-Respect user modifications; preserve my manual edits across iterations; never revert my changes to favor your original suggestions or default templates unless explicitly requested.
+Preserve manual edits across iterations; flag syntax errors or broken logic if an edit introduces them.
 ```
 
 ## Why It Works
